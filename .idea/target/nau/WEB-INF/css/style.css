@@ -1,0 +1,41 @@
+.all {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.taxi-slider {
+    height: 400px;
+    width: 1200px;
+    background-color: #000000;
+    border-radius: 3px;
+
+}
+
+.content {
+    height: 400px;
+    width: 1200px;
+}
+
+.menu-left {
+    height: 400px;
+    width: 250px;
+    float: left;
+}
+
+.table-right {
+    height: 400px;
+    width: 900px;
+    margin-left: 300px;
+}
+
+.new_order{
+    height: 140px;
+}
+
+/*.right-form{*/
+/*position: absolute;*/
+/*height: 400px;*/
+/*width: 380px;*/
+/*margin-left: 820px;*/
+/*background-color: #204d74;*/
+/*}*/
